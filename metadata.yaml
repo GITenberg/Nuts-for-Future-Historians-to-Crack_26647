@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26647#Nuts-for-Future-Historians-to-Crack
 gutenberg_issued: '2008-09-17'
 gutenberg_type: Text
 identifiers:
