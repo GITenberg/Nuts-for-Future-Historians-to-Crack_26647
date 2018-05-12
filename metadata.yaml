@@ -1,0 +1,33 @@
+_repo: Nuts-for-Future-Historians-to-Crack_26647
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Smith, Horace Wemyss
+    birthdate: 1825
+    deathdate: 1891
+    gutenberg_agent_id: '32155'
+    url: http://www.gutenberg.org/2009/agents/32155
+  contributor:
+    agent_name: Cadwalader, John
+    birthdate: 1742
+    deathdate: 1786
+    gutenberg_agent_id: '32156'
+    url: http://www.gutenberg.org/2009/agents/32156
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2008-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26647'
+  lccn: 09020492
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Reed, Joseph, 1741-1785'
+title: Nuts for Future Historians to Crack
+url: http://www.gutenberg.org/ebooks/26647
